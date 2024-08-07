@@ -1,0 +1,10 @@
+INSERT INTO item (bar_code, description, stock, price) VALUES ('BAR00001','Sugar','100','300.00');
+INSERT INTO item (bar_code, description, stock, price) VALUES ('BAR00002','Milk','50','500.00');
+INSERT INTO item (bar_code, description, stock, price) VALUES ('BAR00003','Soap','100','150.00');
+INSERT INTO item (bar_code, description, stock, price) VALUES ('BAR00004','Biscuit','75','200.00');
+INSERT INTO item (bar_code, description, stock, price) VALUES ('BAR00005','Chocolate','30','100.00');
+INSERT INTO item (bar_code, description, stock, price) VALUES ('BAR00006','Salt','20','75.00');
+INSERT INTO item (bar_code, description, stock, price) VALUES ('BAR00007','Chilli P','20','200.00');
+INSERT INTO item (bar_code, description, stock, price) VALUES ('BAR00008','Bread','10','140.00');
+INSERT INTO item (bar_code, description, stock, price) VALUES ('BAR00009','Pepper','30','240.00');
+INSERT INTO item (bar_code, description, stock, price) VALUES ('BAR00010','Coffee','20','190.00');
