@@ -1,9 +1,10 @@
-CREATE TABLE "order"
-(
-    id VARCHAR(10) PRIMARY KEY ,
-    date DATE,
-    customer_id VARCHAR(10) NOT NULL,
-    username VARCHAR(100) NOT NULL ,
-    CONSTRAINT fk_customer_id FOREIGN KEY (customer_id) REFERENCES customer,
-    CONSTRAINT fk_username FOREIGN KEY (username) REFERENCES "user"
-);
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD001','C001','amal123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD002','C001','amal123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD003','C002','kamal123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD004','C002','kamal123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD005','C002','kamal123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD006','C005','sadun123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD007','C007','sadun123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD008','C007','sadun123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD009','C003','kamidu123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD010','C010','nimal123');
