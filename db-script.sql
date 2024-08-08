@@ -1,4 +1,4 @@
-NSERT INTO customer (id, name) VALUES ('C001', 'Kasun Sampath');
+INSERT INTO customer (id, name) VALUES ('C001', 'Kasun Sampath');
 INSERT INTO customer (id, name) VALUES ('C002', 'Nuwan Praddep');
 INSERT INTO customer (id, name) VALUES ('C003', 'Ruwan Ramidu');
 INSERT INTO customer (id, name) VALUES ('C004', 'Pasan Chamara');
